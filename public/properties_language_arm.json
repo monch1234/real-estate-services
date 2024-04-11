@@ -1,0 +1,204 @@
+{
+  "propertiesARM": [
+    {
+      "id": 1,
+      "title": "Բնակարան կենտրոնում",
+      "description": "հարմարավետ բնակարան դեպի այգի տեսարանով",
+      "price": "100000",
+      "location": "կենտրոն",
+      "image": "/static/media/home1.6fcba737726a21ae6795.webp",
+      "category": "Բնակարաններ",
+      "city": "Երեվան"
+    },
+    {
+      "id": 2,
+      "title": "Ծայրամաս",
+      "description": "Հարմարավետ տււն աձգով եվ ավտոտնակով",
+      "price": "150000",
+      "location": "Ծայրամաս",
+      "image": "/static/media/home2.8dbcc652e7f659955ca8.webp",
+      "category": "Բնակարաններ",
+      "city": "Երեվան"
+    },
+    {
+      "id": 3,
+      "title": "Ծայրամաս",
+      "description": "Հարմարավետ տււն աձգով եվ ավտոտնակով",
+      "price": "200000",
+      "location": "Ծայրամաս",
+      "image": "/static/media/home3.2e78d424c7c731a97e93.webp",
+      "category": "Տուն",
+      "city": "Վանաձոր"
+    },
+    {
+      "id": 4,
+      "title": "Բնակարան կենտրոնում",
+      "description": "հարմարավետ բնակարան դեպի այգի տեսարանով",
+      "price": "168000",
+      "location": "կենտրոն",
+      "image": "/static/media/home4.2a3ad483d72245e0e82d.webp",
+      "category": "Բնակարաններ",
+      "city": "Երեվան"
+    },
+    {
+      "id": 5,
+      "title": "Ծայրամաս",
+      "description": "Հարմարավետ տււն աձգով եվ ավտոտնակով",
+      "price": "160000",
+      "location": "Ծայրամաս",
+      "image": "/static/media/home5.f054b450472fef98a182.webp",
+      "category": "Բնակարաններ",
+      "city": "Արզնի"
+    },
+    {
+      "id": 6,
+      "title": "Ծայրամաս",
+      "description": "Հարմարավետ տււն աձգով եվ ավտոտնակով",
+      "price": "750000",
+      "location": "Ծայրամաս",
+      "image": "/static/media/home6.7a762434215a5c7c158f.webp",
+      "category": "Բնակարաններ",
+      "city": "Աբովյան"
+    },
+    {
+      "id": 7,
+      "title": "Բնակարան կենտրոնում",
+      "description": "հարմարավետ բնակարան դեպի այգի տեսարանով",
+      "price": "100000",
+      "location": "կենտրոն",
+      "image": "/static/media/home7.e169155d96f62417cf68.webp",
+      "category": "Բնակարաններ",
+      "city": "Արմավիր"
+    },
+    {
+      "id": 8,
+      "title": "Ծայրամաս",
+      "description": "Հարմարավետ տււն աձգով եվ ավտոտնակով",
+      "price": "150000",
+      "location": "Ծայրամաս",
+      "image": "/static/media/home8.7a76fe1de1de6d0a1109.webp",
+      "category": "Բնակարաններ",
+      "city": "Երեվան"
+    },
+    {
+      "id": 9,
+      "title": "Ծայրամաս",
+      "description": "Հարմարավետ տււն աձգով եվ ավտոտնակով",
+      "price": "200000",
+      "location": "Ծայրամաս",
+      "image": "/static/media/home9.0c38b7a01b84473fd3b6.webp",
+      "category": "Բնակարաններ",
+      "city": "Վանաձոր"
+    },
+    {
+      "id": 10,
+      "title": "Բնակարան կենտրոնում",
+      "description": "հարմարավետ բնակարան դեպի այգի տեսարանով",
+      "price": "100000",
+      "location": "կենտրոն",
+      "image": "/static/media/home10.e7dcf451041487656c53.webp",
+      "category": "Բնակարաններ",
+      "city": "Երեվան"
+    },
+    {
+      "id": 11,
+      "title": "Ծայրամաս",
+      "description": "Հարմարավետ տււն աձգով եվ ավտոտնակով",
+      "price": "150000",
+      "location": "Ծայրամաս",
+      "image": "/static/media/home11.2eebc7863a2ef94988f2.webp",
+      "category": "Տուն",
+      "city": "Երեվան"
+    },
+    {
+      "id": 12,
+      "title": "Ծայրամաս",
+      "description": "Հարմարավետ տււն աձգով եվ ավտոտնակով",
+      "price": "200000",
+      "location": "Ծայրամաս",
+      "image": "/static/media/home12.ba69309b1fd0f5e08337.webp",
+      "category": "Տուն",
+      "city": "Վանաձոր"
+    },
+    {
+      "id": 13,
+      "title": "Բնակարան կենտրոնում",
+      "description": "հարմարավետ բնակարան դեպի այգի տեսարանով",
+      "price": "100000",
+      "location": "կենտրոն",
+      "image": "/static/media/home13.14494d14ce59c40a79c0.webp",
+      "category": "Տուն",
+      "city": "Երեվան"
+    },
+    {
+      "id": 14,
+      "title": "Ծայրամաս",
+      "description": "Հարմարավետ տււն աձգով եվ ավտոտնակով",
+      "price": "150000",
+      "location": "Ծայրամաս",
+      "image": "http://localhost:3000/static/media/home14.9c8d59f1a98c52e0d17d.webp",
+      "category": "Տուն",
+      "city": "Երեվան"
+    },
+    {
+      "id": 15,
+      "title": "Ծայրամաս",
+      "description": "Հարմարավետ տււն աձգով եվ ավտոտնակով",
+      "price": "200000",
+      "location": "Ծայրամաս",
+      "image": "/static/media/home15.45fd38cd886057ecc2e0.jpeg",
+      "category": "Տուն",
+      "city": "Վանաձոր"
+    },
+    {
+      "id": 16,
+      "title": "Բնակարան կենտրոնում",
+      "description": "հարմարավետ բնակարան դեպի այգի տեսարանով",
+      "price": "100000",
+      "location": "կենտրոն",
+      "image": "/static/media/home16.6901e6b84a7e15c6acd4.webp",
+      "category": "Տուն",
+      "city": "Երեվան"
+    },
+    {
+      "id": 17,
+      "title": "Ծայրամաս",
+      "description": "Հարմարավետ տււն աձգով եվ ավտոտնակով",
+      "price": "150000",
+      "location": "Ծայրամաս",
+      "image": "/static/media/home17.e34b2d0a0fa6c7f0fc31.webp",
+      "category": "Տուն",
+      "city": "Երեվան"
+    },
+    {
+      "id": 18,
+      "title": "Ծայրամաս",
+      "description": "Հարմարավետ տււն աձգով եվ ավտոտնակով",
+      "price": "200000",
+      "location": "Ծայրամաս",
+      "image": "/static/media/home18.3a9b22e98c251e8864ce.webp",
+      "category": "Տուն",
+      "city": "Վանաձոր"
+    },
+    {
+      "id": 19,
+      "title": "Վաճառքի Կոմերցիոն տարածք",
+      "price": "3000000",
+      "description": "Հարմարավետ ռեստորանային տարածք",
+      "location": "Կոմերցիոն տարածք Կենտրոնում",
+      "image": "/static/media/komercion1.388a4ad6cf162f8db483.webp",
+      "category": "Կոմերցիոն տարածք",
+      "city": "Երեվան"
+    },
+    {
+      "id": 20,
+      "title": "Վաճառքի Կոմերցիոն տարածք",
+      "description": "Կոմերցիոն տարածք Ծայրամասում նախատեսված է որպես առևտրի կենտրոն օգտագործելու համար",
+      "price": "2500000",
+      "location": "Ծայրամաս",
+      "image": "/static/media/komercoin2.dc9dec91342d4100ced0.webp",
+      "category": "Կոմերցիոն տարածք",
+      "city": "Վանաձոր"
+    }
+  ]
+}

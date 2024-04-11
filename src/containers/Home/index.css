@@ -1,0 +1,10 @@
+.Home{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.property-list{
+    width: 90%;
+}

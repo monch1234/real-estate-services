@@ -1,0 +1,221 @@
+[
+    {
+        "id":1,
+        "title": "1 Room Apartment For Sale    ",
+        "description": "Renovated 1-2 room apartment on Svachyan Street. Stylish designer renovation done. The heating system and conditioner are installed. Sale together with furniture and equipment. The building has a convenient location, near a bus stop, school, park, necessary shops.    ",
+        "price": "87.000",
+        "location": "Malatia-Sebastia, Svachyan str.",
+        "category": "Home",
+        "image":"https://www.yerkir-real.com/uploads/images/estate/small/16ebKCMHIcygB8Fb.webp",
+        "city":"Yerevan"
+    },
+
+    {
+        ".id": 2,
+        "title": "3 Room Apartment For Sale    ",
+        "description": "Renovated 3-room apartment for sale in Achapnyak, Bashinjagyan street. The apartment is located in a stone house, sunny and bright. Installed heating system. Sale together with kitchen furniture. The building has a convenient location, near a bus stop, school, park, all necessary shops.    ",
+        "price": "105.000",
+        "location": "Ajapnyak, Bashinjaghyan    ",
+        "image": "https://www.yerkir-real.com/uploads/images/estate/small/0IUtprHsNammxd1k.webp",
+        "category": "Home",
+        "city": "Yerevan"
+    },
+
+    {
+        "id": 3,
+        "title": "2 Room Apartment For Sale    ",
+        "description": "2-room apartment for sale on the 3rd floor of a new building, next to the circus on Arshakunyats Avenue. There is an open balcony with a beautiful view.    ",
+        "price": "138.000",
+        "location": "  Avan, Avan-Arinj, Aringe A distr. 3 str.    ",
+        "image": "https://www.yerkir-real.com/uploads/images/estate/large/GF8Dmbplcjiy7vDo.webp",
+        "category": "Home",
+        "city": "Yerevan"
+    },
+
+{
+    "id": 4,
+    "title": "4 Room House For Sale   ",
+    "description": " ",
+    "price": "161.000",
+    "location": "  Avan, Avan-Arinj, Aringe A distr. 3 str.    ",
+    "image": "https://www.yerkir-real.com/uploads/images/estate/large/v99O2t0aW9YL3RYm.webp",
+    "category": "Room House",
+    "city": "Yerevan"
+},
+
+{
+    "id": 5,
+    "title": "2 Room Apartment For Sale    ",
+    "description": "A 2-room apartment, converted into a 3-room apartment, is for sale in the Kentron administrative district, on Yeznik Koghbatsi street. The comfortable apartment is located on the 4th floor of an 11-story high-rise building. The total area of this bright and spacious apartment is 69 sq.m. It has a loggia, an economic balcony and a new major renovation. It is sold together with furniture and appliances.    ",
+    "price": "270.000",
+    "location": "  Center, E.Koghbatsi Str.    ",
+    "image": "https://www.yerkir-real.com/uploads/images/estate/large/qDQ0I1d81iNQLGs6.webp",
+    "category": "Home",
+    "city": "Yerevan"
+},
+
+{
+    "id": 6,
+    "title": "3 Room Apartment For Sale    ",
+    "description": " 3-room apartment in one of the new buildings on Mamikonyants Street. The apartment is completely renovated. An individual heating system and air conditioning are installed. There is an open balcony. The sale includes furniture and appliances.  ",
+    "price": "193.000",
+    "location": "  Arabkir, Mamikonyants str.    ",
+    "image": "https://www.yerkir-real.com/uploads/images/estate/large/yd8fQKcoR3yodNVR.webp",
+    "category": "Home",
+    "city": "Yerevan"
+},
+
+{
+    "id": 7,
+    "title": "3 Room Apartment For Sale  ",
+    "description": " Sunny Beautiful view ",
+    "price": "123.000",
+    "location": " Ajapnyak, Leningradyan    ",
+    "image": "https://www.yerkir-real.com/uploads/images/estate/large/UuMZP2ZHZgmi3o4l.webp",
+    "category": "Home",
+    "city": "Yerevan"
+},
+
+{
+    "id": 8,
+    "title": "3 Room Apartment For Sale    ",
+    "description": "",
+    "price": "230.000",
+    "location": "  Davitashen, Sasna-Tsrer str.    ",
+    "image": "https://www.yerkir-real.com/uploads/images/estate/large/dLEOlW249NyIUrhT.webp",
+    "category": "Home",
+    "city": "Yerevan"
+},
+    
+{
+    "id": 9,
+    "title": "4 Room House For Sale   ",
+    "description": "    ",
+    "price": "138.000",
+    "location": "  Avan, Avan-Arinj, Aringe A distr. 3 str.    ",
+    "image": "https://www.yerkir-real.com/uploads/images/estate/small/0IUtprHsNammxd1k.webp",
+    "category": "Room House",
+    "city": "Yerevan"
+},
+
+{
+    "id": 10,
+    "title": "4 Room House For Sale   ",
+    "description": " ",
+    "price": "198.000",
+    "location": "  Large Center, Aghyusagortsneri 2 st.    ",
+    "image": "https://www.yerkir-real.com/uploads/images/estate/large/ivKEPTxU94knXgCm.webp",
+    "category": "Room House",
+    "city": "Yerevan"
+},
+
+{
+    "id": 11,
+    "title": "5 Room House For Sale   ",
+    "description": " ",
+    "price": "510.000",
+    "location": "  1-6 Nork district, 2nd Nork distr.    ",
+    "image": "https://www.yerkir-real.com/uploads/images/estate/large/GKAbDYF4C11fGEP8.webp",
+    "category": "Room House",
+    "city": "Yerevan"
+},
+
+{
+    "id": 12,
+    "title": "8 Room House For Sale    ",
+    "description": "  ",
+    "price": "320.000",
+    "location": "Qanaqeravan Aragil 10 str.    ",
+    "image":"https://www.yerkir-real.com/uploads/images/estate/large/wWms17V2Hg1pxiAZ.webp",
+    "category": "Room House",
+    "city": "Yerevan"
+},
+
+{
+    "id": 13,
+    "title": "4 Room House For Sale   ",
+    "description": "",
+    "price": "170.000",
+    "location": "  Avan, Avan-Arinj, Avan Arinj, V. Teryan 12 st.    ",
+    "image": "https://www.yerkir-real.com/uploads/images/estate/large/y3a20GBMgzAt0vmW.webp",
+    "category": "Room House",
+    "city": "Yerevan"
+},
+
+{
+    "id": 14,
+    "title": "6 Room House For Sale  ",
+    "description": "",
+    "price": "350.000",
+    "location": "  Avan, Avan-Arinj, Arinj 15 Str. 1 alley    ",
+    "image": "https://www.yerkir-real.com/uploads/images/estate/large/OQwwjEs8wETQKjy1.webp",
+    "category": "Room House",
+    "city": "Yerevan"
+},
+
+{    
+    "id": 15,
+    "title": "Land For Sale    ",
+    "description": " ",
+    "price": "365.000",
+    "location": "  Ajapnyak, Leningradyan    ",
+    "image": "https://www.yerkir-real.com/uploads/images/estate/large/vIEgTmw08SO0YbaP.webp",
+    "category": "Land",
+    "city": "Yerevan"
+},
+
+{
+    "id": 16,
+    "title": "Land For Sale    ",
+    "description": "  ",
+    "price": "600.000",
+    "location": "  Regions, Nairi    ",
+    "image": "https://www.yerkir-real.com/uploads/images/estate/large/XpqdjmOPeIBwV0qy.webp",
+    "category": "Land",
+    "city": "Regions"
+},
+
+{
+    "id": 17,
+    "title": "Land For Sale    ",
+    "description": " ",
+    "price": "155.000",
+    "location": "  1-6 Nork district, Bagrevand 45 st.    ",
+    "image": "https://www.yerkir-real.com/uploads/images/estate/large/ry4sFOn9qwvZBUOq.webp",
+    "category": "Land",
+    "city": "Yerevan"
+},
+
+{
+    "id": 18,
+    "title": "Land For Sale    ",
+    "description": " ",
+    "price": "190.000",
+    "location": "  Davitashen, Davidashen Dzor 2    ",
+    "image": "https://www.yerkir-real.com/uploads/images/estate/large/wa6GYeuCHrARCIXK.webp",
+    "category": "Land",
+    "city": "Yerevan"
+},
+
+{
+    "id": 19,
+    "title": "Land For Sale    ",
+    "description": " ",
+    "price": "125.000",
+    "location": "   Ajapnyak, Lukashin 1 str.    ",
+    "image": "https://www.yerkir-real.com/uploads/images/estate/large/uqapRLMbmqsthyyC.webp",
+    "category": "Land",
+    "city": "Yerevan"
+},
+
+{
+    "id": 20,
+    "title": "Land For Sale   ",
+    "description": " ",
+    "price": "1.044.000",
+    "location": "  Erebuni, Azatamartikneri str.    ",
+    "image": "https://www.yerkir-real.com/uploads/images/estate/large/UqsjdL9wovgQU3Dd.webp",
+    "category": "Land",
+    "city": "Yerevan"
+}
+]

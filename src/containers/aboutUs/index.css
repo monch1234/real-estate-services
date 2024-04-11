@@ -1,0 +1,58 @@
+.about-us{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.size{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    color: #26366B;
+    margin-bottom: 50px;
+}
+
+.logo-partners{
+    width: 40%;
+}
+
+.logoAbout{
+    width: 65%;
+    border: 10px solid #ebdb87;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 25% 12px;
+}
+
+.about{
+    width: 40%;
+}
+
+@media only screen and (max-width: 600px) {
+    .logoAbout, .about {
+        width: 90%; /* Уменьшаем ширину блоков для маленьких экранов */
+    }
+}
+
+@media only screen and (min-width: 601px) and (max-width: 1024px) {
+    .size {
+        flex-direction: column; /* Изменяем направление flex контейнера на колонки */
+        align-items: center; /* Центрируем элементы по горизонтали */
+    }
+
+    .logo-partners, .logoAbout, .about {
+        width: 80%; /* Уменьшаем ширину блоков для экранов планшетов и ноутбуков */
+    }
+}
+@media only screen and (min-width: 200px) and (max-width: 599px) {
+    .size{
+        flex-direction: column;
+        align-items: center;
+    }
+    .logo-partners, .logoAbout, .about {
+        width: 90%; /* Уменьшаем ширину блоков для маленьких экранов */
+    }
+}

@@ -1,0 +1,156 @@
+.property-card {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.property-image {
+    width: 45%;
+    margin-right: 20px;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+
+.property-image.expanded {
+    width: 100%; 
+  height: 100%; 
+  position: fixed;
+  top: 50%;
+  left: 50%; 
+  transform: translate(-50%, -50%); 
+  background-color:rgba(0, 0, 0, 0.2);
+  z-index: 1000; 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  }
+
+  .property-image.expanded img{
+    width: 50%;
+    height: 50%;
+    border-radius: 8px;
+  }
+
+
+.close-button {
+    position: absolute;
+    top: 27%; 
+    right: 26%;
+    font-size: 20px;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.5);
+    border: none; 
+    padding: 5px 10px;
+    border-radius: 8;
+    cursor: pointer;
+    z-index: 1001;
+  }
+
+.property-image img {
+    width: 100%;
+    height: auto;
+}
+
+.property-details {
+    border: 1px solid rgba(38, 54, 107, 0.3);
+    border-radius: 12px;
+    background-color: #FFFFFF;
+    width: 100%;
+    max-width: 100%;
+    padding: 20px;
+    display: flex;
+    align-items: start;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.property-title {
+    width: 100%;
+    font-size: 25px;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px 0px 20px 0px;
+}
+
+.property-info {
+        font-size: 20px;
+        margin: 10px 0px 0px 0px;
+}
+
+.property-info span {
+    font-weight: bold;
+}
+
+.property-price {
+    font-size: 20px;
+    color: #26366B;
+}
+
+
+.reset-button {
+    padding: 8px 16px;
+    background-color: #26366B;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.reset-button:hover {
+    background-color: #1C2754;
+}
+
+
+@media screen and (min-width: 200px) and (max-width: 1000px) {
+    .property-card {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%; 
+        max-width: 600px;
+    }
+
+    .property-image {
+        width: 100%;
+        margin-right: 0; 
+        margin-bottom: 20px;
+    }
+
+    .property-details {
+        padding: 10px;
+        height: auto;
+    }
+
+    .property-title {
+        font-size: 20px;
+        margin: 10px 0;
+    }
+
+    .property-info {
+        font-size: 16px;
+    }
+
+    .property-price {
+        font-size: 16px;
+    }
+
+    .reset-button {
+        padding: 6px 12px;
+        font-size: 14px;
+    }
+}
+
+.block{
+    display: block;
+}
+.none{display: none;}

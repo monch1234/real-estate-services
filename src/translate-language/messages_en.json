@@ -1,0 +1,65 @@
+{
+    "header.sile": "For Sale",
+    "properties.title":"home",
+    "Header.rent": "For Rent",
+    "Header.construction": "New Construction",
+    "Services": "Services",
+    "About.us": "About Us",
+    "Contacts": "Contacts",
+    "name.LastName":"Name LastName",
+    "e.mail":"E-mail",
+    "topic":"Topic",
+    "your.telephon":"Phone number",
+    "Have.a.real.estate.for.sale": "Have a real estate for sale",
+    "Best.Offers": "Available real estate",
+    "filters.h1": "Reset filter",
+    "select.the.category": "select the category",
+    "select.the.city": "Select the city",
+    "select.the.price": "Select the price",
+    "show.more": "show more",
+
+
+    "property.card.title": "home center",
+    "property.card.description": "Уютная квартира с выдом на сад",
+    "property.card.location":"Центр",
+    "category":"Квартира",
+    "city":"Ереван",
+    "property.card.location.two":"Окраина",
+
+    "favorites": "Favorits",
+
+    "about.us":"About Us",
+    "about.us.description":"Yerkir real estate agency is engaged in the purchase and sale of real estate, as well as brokerage activities. Our specialists will help you choose real estate in Yerevan and the regions of Armenia that suits your preferences, including an apartment, office and commercial premises, a private house and a plot of land. We are engaged in both the purchase and sale of real estate, and we are an intermediary between tenants of premises and apartments and their clients. The specialists of the Yerkir Real Estate Agency have more than 10 years of experience in the real estate market. The highly qualified specialists of the company guarantee a prompt solution to problems of any complexity for our clients. Our company is one of the founders of the Association of Realtors of Armenia. Membership in the Association of Realtors and the trust of our clients increase the agency’s reputation in the Armenian real estate market. We have an excellent reputation among partners and clients, which we are very proud of. We have certificates for all types of services․ The certificate (AG No. 0487) was issued by the agency for certification of brokerage services. Our company is also one of the founders of the newspaper 'Gorzark', where you can find various information about the real estate market. Today, the Yerkir real estate agency uses modern technologies and the support of modern telecommunications. Using television commercials, the Internet and other media, the company regularly communicates with customers. Our company's database is updated daily and replaced with new information, ensuring quality service. From www.yerkir-real.com you can find any information about real estate that is currently for sale and rent in Armenia",
+    "about.us1":"WE PROVIDE",
+    "about.us2":"Realtor services",
+    "about.us3":"Preparation of documents for purchase, sale and lease of real estate in Yerevan",
+    "about.us4":"Legal support",
+    "about.us5":"Founded in 2004 Yerkir Real Estate Agency is one of the leading real estate companies in Armenia in terms of quality of services and accessibility.",
+    "about.us6":"OUR PARTNERS",
+    "about.us7":"Yerkir Real Estate Agency cooperates with almost all real estate agencies in Armenia. The company is ready to cooperate with everyone, regardless of geographical location. We love our customers and can guarantee it.",
+    "about.us8":"Individual approach",
+    "about.us9":"Multifaceted attention",
+    "about.us10":"Privacy and Security of Transactions",
+
+    "contact":"Contact",
+    "contact.paragraph":"Contact the operators of Yerkir real estate agency. Our real estate agents will help you find or sell apartments and houses in Armenia. ",
+    "tell":"Tell",
+    "faqs":"Faqs",
+    "E-mail":"E-mail",
+    "send":"Send",
+    "calling": "Calling",
+    
+    "footer.paragraph.appartment":"Apartment.",
+    "footer.paragraph.komercions":"Commercial Property.",
+    "footer.paragraph.land":"Land.",
+    "footer.paragraph.home":"House.",
+    "footer.two.paragraph":"Real estate purchase and sale are, simplified through the first mobile app in Armenia    ",
+    "footer.three.paragraph":"simplified through the first mobile app in Armenia    ",
+
+    "comming.soom":"Coming soom",
+
+    "services.title":"Services",
+
+    "more.details":"More Details"
+
+}
