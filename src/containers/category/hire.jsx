@@ -46,15 +46,24 @@ const Hire = () => {
     const cities = [...new Set(data.map(property => property.city))];
     const prices = [...new Set(data.map(property => property.price))];
 
-    const handleFilterChange = (value) => {
-        if (value == null) {
-            setFilteredProperties(data); 
-        } else {
-            const filtered = data.filter(property => property.category === value || property.city === value || property.price === value);
-            setFilteredProperties(filtered); 
-        }
-        setItemsToShow(10); 
-    };
+    const handleFilterChange = (value) => {if (value == null) {
+        setFilteredProperties(data); // если фильтр не указан, показываем все свойства
+    } else if (value.includes('-')) { // если указан диапазон цен
+        const [minPrice, maxPrice] = value.split('-').map(parseFloat);
+        const filtered = data.filter(property => {
+            if (!isNaN(minPrice) && !isNaN(maxPrice)) {
+                return property.price >= minPrice && property.price <= maxPrice;
+            }
+            return true;
+        });
+        setFilteredProperties(filtered); // фильтруем свойства по диапазону цен
+    } else {
+        const filtered = data.filter(property => property.category === value || property.city === value);
+        setFilteredProperties(filtered); // фильтруем свойства по категории или городу
+    }
+    setItemsToShow(10); // сбрасываем количество показываемых элементов
+    
+        };
 
 
    

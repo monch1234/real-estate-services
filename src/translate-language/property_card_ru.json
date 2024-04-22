@@ -1,9 +1,9 @@
 [
 {
     "id":1,
-    "title": "1 Комнатная Квартира На Продажу    ",
+    "title": "1 Комнатная Квартира    ",
     "description": "Переоборудованная 1-2 комнатная квартира на улице Свачяна. Сделан стильный дизайнерский ремонт. Установлена система отопления и кондиционер. Продажа вместе с мебелью и техникой. Здание имеет удобное расположение, рядом автобусная остановка, школа, парк, необходимые магазины.    ",
-    "price": "87.000",
+    "price": 87000,
     "location": "  Малатия-Себастия, Свачян ул.    ",
     "category": "Квартира",
     "image":"https://www.yerkir-real.com/uploads/images/estate/small/16ebKCMHIcygB8Fb.webp",
@@ -12,9 +12,9 @@
 
 {
     "id": 2,
-    "title": "3 Комнатная Квартира На Продажу    ",
+    "title": "3 Комнатная Квартира      ",
     "description": "Продается отремонтированная 3-комнатная квартира в Ачапняке, на улице Башинджагяна. Квартира расположена в каменном доме, солнечная и светлая. Установлена ​​система отопления. Продажа вместе с кухонной мебелью. Здание имеет удобное расположение, рядом автобусная остановка, школа, парк, все необходимые магазины.    ",
-    "price": "105.000",
+    "price": 105000,
     "location": " Ачапняк, Башинджагян ул.    ",
     "image": "https://www.yerkir-real.com/uploads/images/estate/small/0IUtprHsNammxd1k.webp",
     "category": "Квартира",
@@ -24,9 +24,9 @@
 
 {
     "id": 3,
-    "title": " 2 Комнатная Квартира На Продажу   ",
+    "title": " 2 Комнатная Квартира   ",
     "description": "Продается 2-комнатная квартира на 3 этаже новостройки, рядом с цирком на проспекте Аршакуняц. Есть открытый балкон с прекрасным видом.    ",
-    "price": "138.000",
+    "price": 138000,
     "location": "  Шенгавит, Аршакуняц ул.    ",
     "image": "https://www.yerkir-real.com/uploads/images/estate/large/QwbHUVlhK6IEmu9K.webp",
     "category": "Квартира",
@@ -35,9 +35,9 @@
 
     {
     "id": 4,
-    "title": "4 Комнатный Дом На Продажу    ",
+    "title": "4 Комнатный Дом    ",
     "description": "Продается солнечная 24 Комнатный Дом, в  Аван, Аван-Ариндж, Ариндж А уч. 4 ул.    ",
-    "price": "161.000",
+    "price": 161000,
     "location": "  Аван, Аван-Ариндж, Ариндж А уч. 4 ул.    ",
     "image": "https://www.yerkir-real.com/uploads/images/estate/large/GF8Dmbplcjiy7vDo.webp",
     "category": "Дом",
@@ -46,9 +46,9 @@
 
 {
     "id": 5,
-    "title": "2 Комнатная Квартира На Продажу    ",
+    "title": "2 Комнатная Квартира  ",
     "description": "Продается 2-комнатная квартира, переделанная в 3-комнатную, в административном районе Кентрон, по улице Езник Кохбаци. Уютная квартира расположена на 4 этаже 11 этажного многоэтажного дома. Общая площадь этой светлой и просторной квартиры составляет 69 кв.м. Имеет лоджию, хозяйственный балкон и новый капитальный ремонт. Продается вместе с мебелью и техникой.    ",
-    "price": "270.000",
+    "price": 270000,
     "location": "   Центр, Е.Кохбаци ул.    ",
     "image": "https://www.yerkir-real.com/uploads/images/estate/large/qDQ0I1d81iNQLGs6.webp",
     "category": "Квартира",
@@ -57,9 +57,9 @@
 
 {
     "id": 6,
-    "title": "3 Комнатная Квартира На Продажу    ",
+    "title": "3 Комнатная Квартира  ",
     "description": "3-комнатная квартира в одной из новостроек на улице Мамиконянца. Квартира полностью отремонтирована. Установлена ​​индивидуальная система отопления, кондиционер. Есть открытый балкон. В продажу входит мебель и техника.    ",
-    "price": "193.000",
+    "price": 193000,
     "location": "  Арабкир, Мамиконянц ул.    ",
     "image": "https://www.yerkir-real.com/uploads/images/estate/large/yd8fQKcoR3yodNVR.webp",
     "category": "Квартира",
@@ -68,9 +68,9 @@
 
 {
     "id": 7,
-    "title": "3 Комнатная Квартира На Продажу    ",
+    "title": "3 Комнатная Квартира  ",
     "description": "Красивый вид, Солнечный ",
-    "price": "123.000",
+    "price": 123000,
     "location": "  Ачапняк, Ленинградян    ",
     "image": "https://www.yerkir-real.com/uploads/images/estate/large/UuMZP2ZHZgmi3o4l.webp",
     "category": "Квартира",
@@ -79,9 +79,9 @@
 
 {
     "id": 8,
-    "title": "3 Комнатная Квартира На Продажу    ",
+    "title": "3 Комнатная Квартира   ",
     "description": "",
-    "price": "230.000",
+    "price": 230000,
     "location": "   Давиташен, Сасна Црер ул.    ",
     "image": "https://www.yerkir-real.com/uploads/images/estate/large/dLEOlW249NyIUrhT.webp",
     "category": "Квартира",
@@ -90,54 +90,54 @@
     
 {
     "id": 9,
-    "title": " 4 Комнатный Дом На Продажу ",
+    "title": " 4 Комнатный Дом  ",
     "description": "    ",
-    "price": "138.000",
+    "price": 138000,
     "location": "   Аван, Аван-Ариндж, Ариндж А уч. 4 ул.     ",
     "image": "https://www.yerkir-real.com/uploads/images/estate/small/0IUtprHsNammxd1k.webp",
     "category": "Дом",
     "city": "Ереван"},
 {
     "id": 10,
-    "title": "4 Комнатный Дом На Продажу   ",
+    "title": "4 Комнатный Дом  ",
     "description": " ",
-    "price": "198.000",
+    "price": 198000,
     "location": "  Большой Центр, Агюсагорцнери 2 ул.    ",
     "image": "https://www.yerkir-real.com/uploads/images/estate/large/ivKEPTxU94knXgCm.webp",
     "category": "Дом",
     "city": "Ереван"},
 {
     "id": 11,
-    "title": "5 Комнатный Дом На Продажу   ",
+    "title": "5 Комнатный Дом   ",
     "description": " ",
-    "price": "510.000",
+    "price": 510000,
     "location": " 1-6 Норкскй Массив, 2-й Н. М.    ",
     "image": "https://www.yerkir-real.com/uploads/images/estate/large/GKAbDYF4C11fGEP8.webp",
     "category": "Дом",
     "city": "Ереван"},
 {
     "id": 12,
-    "title": "8 Комнатный Дом На Продажу   ",
+    "title": "8 Комнатный Дом   ",
     "description": "  ",
-    "price": "320.000",
+    "price": 320000,
     "location": " Канакераван Арагил АСК 10 ул    ",
     "image":"https://www.yerkir-real.com/uploads/images/estate/large/wWms17V2Hg1pxiAZ.webp",
     "category": "Дом",
     "city": "Ереван"},
 {
     "id": 13,
-    "title": "4 Комнатный Дом На Продажу   ",
+    "title": "4 Комнатный Дом ",
     "description": "",
-    "price": "170.000",
+    "price": 170000,
     "location": "  Аван, Аван-Ариндж, Аван Ариндж В. Терян 12 ул.    ",
     "image": "https://www.yerkir-real.com/uploads/images/estate/large/y3a20GBMgzAt0vmW.webp",
     "category": "Дом",
     "city": "Ереван"},
 {
     "id": 14,
-    "title": "6 Комнатный Дом На Продажу   ",
+    "title": "6 Комнатный Дом  ",
     "description": "",
-    "price": "350.000",
+    "price": 350000,
     "location": " Аван, Аван-Ариндж, Ариндж 15 ул. 1 пер.    ",
     "image": "https://www.yerkir-real.com/uploads/images/estate/large/OQwwjEs8wETQKjy1.webp",
     "category": "Дом",
@@ -146,9 +146,9 @@
 
 {
     "id": 15,
-    "title": "Земля На Продажу    ",
+    "title": "Земля   ",
     "description": " ",
-    "price": "365.000",
+    "price": 365000,
     "location": "  Ачапняк, Ленинградян    ",
     "image": "https://www.yerkir-real.com/uploads/images/estate/large/vIEgTmw08SO0YbaP.webp",
     "category": "Земленной участок",
@@ -157,9 +157,9 @@
 
 {
     "id": 16,
-    "title": "Земля На Продажу   ",
+    "title": "Земля   ",
     "description": "  ",
-    "price": "600.000",
+    "price": 600000,
     "location": "  Районы, Наири    ",
     "image": "https://www.yerkir-real.com/uploads/images/estate/large/XpqdjmOPeIBwV0qy.webp",
     "category": "Земленной участок",
@@ -168,11 +168,41 @@
 
 {
     "id": 17,
-    "title": "Земля На Продажу     ",
+    "title": "Земля   ",
     "description": " ",
-    "price": "155.000",
+    "price": 155000,
     "location": "   1-6 Норкскй Массив, Багреванд 45 ул.    ",
     "image": "https://www.yerkir-real.com/uploads/images/estate/large/ry4sFOn9qwvZBUOq.webp",
     "category": "Земленной участок",
-    "city": "Ереван"}
+    "city": "Ереван"},
+
+    {
+        "id": 18,
+        "title": "Земля   ",
+        "description": " ",
+        "price": 190000,
+        "location": "Давиташен, Давиташен Дзор_2  ",
+        "image": "https://www.yerkir-real.com/uploads/images/estate/large/wa6GYeuCHrARCIXK.webp",
+        "category": "Земленной участок",
+        "city": "Ереван"},
+
+        {
+            "id": 19,
+            "title": "Земля   ",
+            "description": " ",
+            "price": 125000,
+            "location": "Ачапняк, Лукашина 1 ул.",
+            "image": "https://www.yerkir-real.com/uploads/images/estate/large/uqapRLMbmqsthyyC.webp",
+            "category": "Земленной участок",
+            "city": "Ереван"},
+
+            {
+                "id": 20,
+                "title": "Земля   ",
+                "description": " ",
+                "price": 1044000,
+                "location": "Эребуни, ул. Азатамартики. ",
+                "image": "https://www.yerkir-real.com/uploads/images/estate/large/UqsjdL9wovgQU3Dd.webp",
+                "category": "Земленной участок",
+                "city": "Ереван"}
 ]

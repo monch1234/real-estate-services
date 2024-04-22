@@ -1,12 +1,19 @@
 // Favorite.js
-import React from "react";
+import React, { useState } from "react";
 import PropertyCard from "../../components/property-card";
 import Header from "../../components/header";
 import { useLanguage } from '../../context/languageContext';
 
 const Favorite = () => {
-    const favorites = JSON.parse(localStorage.getItem('favorites')) || [];
+    const [favorites, setFavorites] = useState(JSON.parse(localStorage.getItem('favorites')) || [])
     const { translate } = useLanguage();
+
+    const removeFromFavorites = (indexToRemove) => {
+        const updatedFavorites = favorites.filter((_, index) => index !== indexToRemove);
+        localStorage.setItem('favorites', JSON.stringify(updatedFavorites));
+        setFavorites(updatedFavorites); // Предполагается, что у вас есть состояние `favorites` и функция `setFavorites` для его обновления
+    };
+    
 
     return (
         <div style={{
@@ -31,6 +38,7 @@ const Favorite = () => {
                         image={favorite.image}
                         id={favorite.id}
                         price={favorite.price}
+                        removeFromFavorites={() => removeFromFavorites(index)}
                         style={{
                             width: "90%"
                         }}

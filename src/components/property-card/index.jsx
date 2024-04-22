@@ -1,37 +1,37 @@
-import React, { useState, useEffect } from 'react';
-import { Link } from 'react-router-dom';
+import React, { useState } from 'react';
+import { useLocation } from 'react-router-dom';
 import { usePropertyContext } from '../../context/propertyContext';
 import './index.css';
 import { MdFavoriteBorder, MdFavorite } from "react-icons/md";
 import { useLanguage } from '../../context/languageContext';
 
-import propertyCardArm from '../../translate-language/property_card_arm.json';
-import propertyCardEn from '../../translate-language/property_card_en.json';
-import propertyCardRu from '../../translate-language/property_card_ru.json';
-import HouseDetail from '../house-detail';
-
-
-
-const PropertyCard = ({ image, title, description, code, location, phone, price, id, category }) => {
-    const { translate, language } = useLanguage();
+const PropertyCard = ({ image, title, description, code, location, phone, price, id, category, removeFromFavorites }) => {
+    const { translate } = useLanguage();
     const [none, setNone] = useState(false);
     const [isImageExpanded, setIsImageExpanded] = useState(false);
+    const [isFavorite, setIsFavorite] = useState(false);
+    const [favoriteLink, setFavoriteLink] = useState(true);
+
 
     const displayNone = () => {
-        setNone(!none)
-    }
+        setNone(!none);
+    };
 
+    const handleRemoveFromFavorites = () => {
+        removeFromFavorites(id);
+    };
 
     const toggleImageExpansion = () => {
         setIsImageExpanded(!isImageExpanded);
     };
 
     const { updatePropertyData } = usePropertyContext();
-    const [isFavorite, setIsFavorite] = useState(false);
+
     const handleAddToFavorite = () => {
         const favorites = JSON.parse(localStorage.getItem('favorites')) || [];
         localStorage.setItem('favorites', JSON.stringify([...favorites, { id, title, image, description, price }]));
         setIsFavorite(true);
+        console.log(123);
     };
 
     const handleClick = () => {
@@ -47,10 +47,18 @@ const PropertyCard = ({ image, title, description, code, location, phone, price,
         });
     };
 
-
     const handleCloseImage = () => {
         setIsImageExpanded(false);
     };
+    const locationFavorite = useLocation();
+    const favoriteLinkIsActive = locationFavorite.pathname === '/favorites';
+
+    const favoriteLinkHandler = () => {
+        if (favoriteLinkIsActive) {
+            setFavoriteLink(false);
+        }
+    };
+
     return (
         <div className="property-card">
             <div className={`property-image ${isImageExpanded ? 'expanded' : ''}`} onClick={toggleImageExpansion}>
@@ -90,10 +98,9 @@ const PropertyCard = ({ image, title, description, code, location, phone, price,
 
                     </div>
                     <button onClick={handleClick} className="reset-button" onClickCapture={displayNone}>{translate("more.details")}</button>
-                    <div onClick={handleAddToFavorite}>
-                        {isFavorite ? <MdFavorite /> : <MdFavoriteBorder />}
+                    <div onClick={favoriteLinkIsActive ? handleRemoveFromFavorites : handleAddToFavorite}>
+                    {favoriteLinkIsActive ? <MdFavorite /> : (isFavorite ? <MdFavorite /> : <MdFavoriteBorder />)}
                     </div>
-
                 </div>
             </div>
 
