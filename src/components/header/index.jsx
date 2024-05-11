@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { MdFavoriteBorder } from "react-icons/md";
 import { Link } from 'react-router-dom';
 import './index.css';
-import { MdMenu } from 'react-icons/md';
+import { MdMenu, MdMapsHomeWork } from 'react-icons/md';
 import { useLanguage } from '../../context/languageContext';
 import armFlag from "../../assets/img/Armenian Flag.jpeg";
 import engFlag from '../..//assets/img/United Kingdom.jpeg';
@@ -46,8 +46,12 @@ const Header = () => {
     return (
         <header className={isScrolled ? 'fixed' : ''}>
             <div className="logo">
-                <Link to="/">
-                    {/* Logo SVG */}
+                <Link to="/" style={{
+                    
+                fontSize: "100px",
+                color: "#26366B",
+                }}>
+                    <MdMapsHomeWork/>
                 </Link>
             </div>
             <div className="burger-menu" onClick={toggleNav}>

@@ -11,7 +11,7 @@ const Favorite = () => {
     const removeFromFavorites = (indexToRemove) => {
         const updatedFavorites = favorites.filter((_, index) => index !== indexToRemove);
         localStorage.setItem('favorites', JSON.stringify(updatedFavorites));
-        setFavorites(updatedFavorites); // Предполагается, что у вас есть состояние `favorites` и функция `setFavorites` для его обновления
+        setFavorites(updatedFavorites); 
     };
     
 

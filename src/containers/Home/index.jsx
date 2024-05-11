@@ -11,6 +11,7 @@ import propertyCardEn from '../../translate-language/property_card_en.json';
 import propertyCardRu from '../../translate-language/property_card_ru.json';
 
 
+
 const Home = () => {
 
     const { translate, language } = useLanguage();

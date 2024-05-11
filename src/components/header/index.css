@@ -29,6 +29,11 @@ header{
     width: 70%;
 }
 
+nav{
+    display: flex;
+    align-items: center;
+}
+
 nav ul {
     display: flex;
     justify-content: space-between;
